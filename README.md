@@ -116,18 +116,7 @@
 
 ---
 
-## 📸 Screenshots
 
-### Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
-
-### Admin Analytics
-![Admin Analytics](screenshots/admin-analytics.png)
-
-### Order Receipt Email
-![Order Receipt](screenshots/email-receipt.png)
-
----
 
 ## 🚀 Installation
 
